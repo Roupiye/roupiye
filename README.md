@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ">
+  <a href="https://isrubydead.com/">
     <img alt="meme" height="300" src="https://media1.tenor.com/m/y4dpQ11IugUAAAAC/pikachu-chair.gif">
   </a>
 </p>
