@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img alt="meme" src="https://media1.tenor.com/m/y4dpQ11IugUAAAAC/pikachu-chair.gif">
+  </a>
+</p>
 
 <!--
 **TopRoupi/toproupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
